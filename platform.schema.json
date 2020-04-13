@@ -16,12 +16,12 @@
             "readOnly": true
         },
         "username": {
-            "title": "Username",
+            "title": "octobermom0103@gmail.com",
             "type": "string",
             "required": true
         },
         "password": {
-            "title": "Password",
+            "title": "Joey1996",
             "type": "string",
             "required": true,
             "options": {
